@@ -1,24 +1,25 @@
-
-
-````markdown
 # 🛍️ ShopEase - E-Commerce Website
 
 **ShopEase** is a basic yet functional e-commerce website developed using the **MERN stack**. It allows users to sign up, log in, browse products, and manage their shopping cart.
 
+---
+
 ## 🔗 Live Demo
-[_Coming soon..._ (Optional)
-](https://shop-ease-gray-psi.vercel.app/)
+
+[Visit Live Site](https://shop-ease-gray-psi.vercel.app/)
+
 ---
 
 ## 📸 Screenshots
 
-<!-- Add screenshots like this -->
-<!-- ![Home Page](<img width="1881" height="941" alt="image" src="https://github.com/user-attachments/assets/f7fcf84b-6388-41bf-bb41-124d9703935b" />
-) -->
-<!-- ![Product Page](<img width="1900" height="923" alt="image" src="https://github.com/user-attachments/assets/b78854e0-04d9-467f-8a58-68f51daa94ae" />
-) -->
-<!-- ![Cart Page](<img width="1888" height="907" alt="image" src="https://github.com/user-attachments/assets/dbc66d31-a3db-4622-8a18-187510b20a99" />
-) -->
+### 🏠 Home Page
+![Home Page](https://github.com/user-attachments/assets/f7fcf84b-6388-41bf-bb41-124d9703935b)
+
+### 📄 Product Page
+![Product Page](https://github.com/user-attachments/assets/b78854e0-04d9-467f-8a58-68f51daa94ae)
+
+### 🛒 Cart Page
+![Cart Page](https://github.com/user-attachments/assets/dbc66d31-a3db-4622-8a18-187510b20a99)
 
 ---
 
@@ -59,14 +60,14 @@
 
 2. **Install dependencies**
 
-   * For backend:
+   * Backend:
 
      ```bash
      cd backend
      npm install
      ```
 
-   * For frontend:
+   * Frontend:
 
      ```bash
      cd ../frontend
@@ -122,10 +123,10 @@ ShopEase/
 
 ## 🧠 Future Enhancements
 
-* ✅ Product search and filtering
-* ✅ Order placement and payment integration
-* ✅ Admin dashboard
-* ✅ Wishlist functionality
+* 🔍 Product search and filtering
+* 💳 Order placement and payment integration
+* 🛠️ Admin dashboard
+* ❤️ Wishlist functionality
 
 ---
 
@@ -141,4 +142,4 @@ Feel free to reach out for collaboration or feedback!
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
+````
