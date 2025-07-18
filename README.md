@@ -6,8 +6,8 @@
 **ShopEase** is a basic yet functional e-commerce website developed using the **MERN stack**. It allows users to sign up, log in, browse products, and manage their shopping cart.
 
 ## 🔗 Live Demo
-_Coming soon..._ (Optional)
-
+[_Coming soon..._ (Optional)
+](https://shop-ease-gray-psi.vercel.app/)
 ---
 
 ## 📸 Screenshots
@@ -141,9 +141,4 @@ Feel free to reach out for collaboration or feedback!
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you want to customize it more (e.g., add deployment instructions, screenshots, or project badges).
 ```
